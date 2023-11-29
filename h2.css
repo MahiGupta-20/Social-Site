@@ -1,0 +1,55 @@
+.main{
+    margin-left: 200px; margin-right: 200px;margin-top:100px;margin-bottom:20px;
+    background-color: rgb(240, 243, 246);
+    padding:20px;
+}
+html{ scroll-behavior: smooth;}
+h1{color: antiquewhite; padding-top: 20px;}
+h3{color:rgb(4, 4, 57);}
+header{ 
+    font-size: large;
+    height: 150px;
+    background-color:rgb(56, 14, 14);
+    text-align: center;
+}
+header h1{
+    padding: 20px;
+}
+body {
+    background-image: url(https://wallpapers.com/images/hd/glaring-pool-water-hd-7hzd7xgezbc46ade.jpg);
+    height: 100%;
+    background-position: center;
+    background-size:cover;
+}
+strong{font-size: large;}
+p{font-size: large;}
+#intro{height: 200; width: 500; margin-left:33%; margin-right:67%;}
+#k{width: 300;}
+table,th,td{border: 1px solid;}
+#gb{width:460;}
+.flexbox{display: flex;}
+.flexchild{flex: 1;}
+.flexchild1{flex: 0;}
+html{scroll-behavior: smooth;}
+nav{
+    height:30px;
+    background-color: rgb(106, 35, 35);
+    text-align: center;
+    padding: 10px;
+}
+nav a{color:antiquewhite;}
+footer{
+    background-color: rgb(56, 14, 14); height:300px;
+}
+.footer{
+    color:antiquewhite;text-align: center;padding-top: 30px;padding-bottom:30px;font-size:large;
+}
+#f{
+    color:antiquewhite;
+}
+a.home:visited,a.home:link{
+    text-decoration: none;
+}
+a.home:hover{
+    text-decoration: underline;
+}
